@@ -3,7 +3,7 @@ Demo Project used during my talk at SwiftHeroes - 2018-11-09
 
 Talk and demo try to focus RxSwift/RxCocoa usage on the UI side rather than the Network chaining one (where, of course, it rocks as well!).
 
-In this repo I've added way more stuff I couldn't show during the talk.
+In this repo I've added way more stuff I couldn't show during the talk. You can also find the slides [here](https://github.com/stefanomondino/RxSwiftForUI/blob/master/RxSwift%20for%20UI.pdf)
 
 Storyboard and cell usage is for demo purposes only (I wouldn't suggest to use segues or `UICollectionViewCell`s designed directly inside storyboards)
 
